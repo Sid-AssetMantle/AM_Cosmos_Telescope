@@ -1,6 +1,6 @@
 {
   "name": "@siddharthchadha/am_module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Siddharth Chadha <siddharth@assetmantle.one>",
   "description": "AM_module",
   "main": "index.js",
