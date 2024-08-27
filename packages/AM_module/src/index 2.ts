@@ -5,8 +5,6 @@
     * and run the transpile command or npm scripts command that is used to regenerate this bundle.
   */
  
-export * from "./extern";
-export * from "./react-query";
 export * from "./varint";
 export * from "./utf8";
 export * from "./binary";
